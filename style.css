@@ -1,0 +1,289 @@
+.xdclass_home {
+    min-width: 1379px;
+}
+
+.header_img img {
+    width: 100%;
+}
+
+.nav_left {
+    position: relative;
+}
+
+.sousuo {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    right: 3px;
+}
+
+.vip {
+    width: 26px;
+    height: 26px;
+}
+
+.touxiang {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.header_nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: pink; */
+    padding: 0 20px;
+    height: 72px;
+    font-size: 16px;
+    box-shadow: 0px -11px 48px #000;
+}
+
+.nav_left ul {
+    display: flex;
+    align-items: center;
+}
+
+.nav_left ul li {
+    margin-right: 20px;
+    position: relative;
+}
+
+.nav_left ul li input {
+    border-bottom: 1px solid #000;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+.nav_left ul li i {
+    background-color: red;
+    border-radius: 8px;
+    color: #fff;
+    position: absolute;
+    font-size: 14px;
+    top: -18px;
+    width: 26px;
+    right: 2px
+}
+
+.nav_right ul {
+    display: flex;
+    align-items: center;
+}
+
+.nav_right ul li {
+    position: relative;
+}
+
+.nav_right ul li i {
+    background-color: red;
+    border-radius: 8px;
+    color: #fff;
+    position: absolute;
+    font-size: 14px;
+    top: -18px;
+    width: 26px;
+    right: 2px
+}
+
+.nav_right ul li:not(:last-child) {
+    margin-right: 20px;
+}
+
+.logo {
+    width: 116px;
+    height: 58px;
+}
+
+.xiangyou {
+    width: 20px;
+    height: 20px
+}
+
+.banner {
+    width: 1000px;
+    height: 450px;
+    margin: 40px auto 0;
+    border-radius: 10px;
+    display: flex;
+    overflow: hidden;
+    box-shadow: 0 12px 24px 0 rgb(7 17 27 / 60%)
+}
+
+.banner_left {
+    flex: 2;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+}
+
+.banner_right {
+    flex: 8;
+}
+
+.banner_left div {
+    padding: 0 20px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner_right img {
+    width: 800px;
+    height: 450px;
+}
+
+.hot_list {
+    width: 1000px;
+    margin: 50px auto 50px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.content_item {
+    width: 200px;
+    height: 350px;
+    overflow: hidden;
+    position: relative;
+}
+
+.feel {
+    position: absolute;
+    background-color: #ea951b;
+    top: 0;
+    right: 0;
+    color: #fff;
+    border-radius: 0 0 0 4px;
+}
+
+.item_img,
+.item_img img {
+    width: 200px;
+    height: 182px;
+}
+
+.item_img img:hover {
+    /* 放大 */
+    transform: scale(1.1);
+    transition: 0.5s ease;
+}
+
+.content_item:hover {
+    color: red
+}
+
+.hot_text {
+    font-size: 20px;
+    border-bottom: 2px solid red;
+}
+
+.hot_eng {
+    font-size: 14px;
+}
+
+.hot_list_title {
+    width: 160px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.item_text {
+    padding: 10px;
+    font-size: 14px;
+    background-color: rgb(238, 237, 237);
+}
+
+.huo,
+.yonghu {
+    width: 16px;
+    height: 16px;
+}
+
+.item_jibie {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item_number {
+    display: flex;
+    justify-content: space-between;
+}
+
+.number_right .left {
+    font-size: 12px;
+    margin-right: 5px;
+    text-decoration: line-through;
+}
+
+.hot_list_content {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.split_line {
+    height: 100px;
+    background-color: rgb(251, 250, 250);
+}
+
+.new_list_left img {
+    width: 300px;
+    height: 670px;
+    margin-left: 20px;
+}
+
+.new_list {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding: 50px 0;
+    box-shadow: 0 4px 8px 0 rgb(7 17 27 / 20%);
+}
+
+.new_list_content {
+    width: 1000px;
+    height: 638px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.new_list_right {
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.icon_item {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.foot {
+    width: 432px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding: 50px 0;
+    margin: 0 auto;
+    font-size: 12px
+}
+
+.foot_text {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+    border-bottom: 1px solid #000;
+}
+
+.rext_item {
+    margin-right: 10px;
+}
