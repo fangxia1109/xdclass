@@ -1,0 +1,86 @@
+{
+    "code": 0,
+    "data": [{
+        "id": 1,
+        "title": "轮播视频",
+        "size": 3,
+        "videoList": "",
+        "rows": 1,
+        "columns": 4,
+        "type": 1,
+        "imgs": "https://file.xdclass.net/video/2022/banner/03.jpeg,\nhttps://file.xdclass.net/video/2022/banner/34.png,\nhttps://file.xdclass.net/video/2022/banner/3.jpeg,\nhttps://file.xdclass.net/video/2022/77-QD/banner.jpeg,\nhttps://file.xdclass.net/video/2022/22-aliyun/03.png,\nhttps://file.xdclass.net/video/2022/75-Vue3/banner.jpeg,\nhttps://file.xdclass.net/video/2022/72-ShardingJDBC/banner.jpeg,\nhttps://file.xdclass.net/video/2021/68-MySQL/banner.jpeg,\nhttps://file.xdclass.net/video/2021/67-Flink/lbt.jpeg,\nhttps://file.xdclass.net/video/2020-12%20%E5%AE%98%E7%BD%91%E8%B6%85100k%E4%B8%BB%E5%9B%BE%E6%9B%B4%E6%96%B0/lbt/alibabacloud.jpg,\nhttps://file.xdclass.net/video/2020-12%20%E5%AE%98%E7%BD%91%E8%B6%85100k%E4%B8%BB%E5%9B%BE%E6%9B%B4%E6%96%B0/lbt/ssm.jpg",
+        "online": 1,
+        "createTime": "2020-09-09T15:22:11.000+0000",
+        "urls": "https://xdclass.net/#/memberV2,\nhttps://detail.tmall.com/item.htm?id=659917587313&skuId=4753069368291,\nhttps://detail.tmall.com/item.htm?id=671977607036,\nhttps://xdclass.net/#/coursedetail?video_id=77,\nhttps://www.aliyun.com/minisite/goods?taskPkg=2022cgj&pkgSid=279342&userCode=r5saexap,\nhttps://xdclass.net/#/coursedetail?video_id=75,\nhttps://xdclass.net/#/coursedetail?video_id=72,\nhttps://xdclass.net/#/coursedetail?video_id=68,\nhttps://xdclass.net/#/coursedetail?video_id=67,\nhttps://detail.tmall.com/item.htm?id=627037900474,\nhttps://detail.tmall.com/item.htm?spm=a230r.1.14.66.2c8e18e2nqtAgR&id=627337634174&ns=1&abbucket=9",
+        "mUrls": "https://m.xdclass.net/#/member,\nhttps://detail.tmall.com/item.htm?id=659917587313&skuId=4753069368291,\nhttps://detail.tmall.com/item.htm?id=671977607036,\nhttps://m.xdclass.net/#/coursedetail?video_id=77,\nhttps://www.aliyun.com/minisite/goods?taskPkg=2022cgj&pkgSid=279342&userCode=r5saexap,\nhttps://m.xdclass.net/#/coursedetail?video_id=75,\nhttps://m.xdclass.net/#/coursedetail?video_id=72,\nhttps://m.xdclass.net/#/coursedetail?video_id=68,\nhttps://m.xdclass.net/#/coursedetail?video_id=67,\nhttps://detail.tmall.com/item.htm?id=627037900474,\nhttps://m.xdclass.net/#/coursedetail?video_id=52",
+        "videoObjList": null,
+        "banner_list": [{
+                "type": 1,
+                "img": "https://file.xdclass.net/video/2022/banner/03.jpeg",
+                "url": "https://xdclass.net/#/memberV2",
+                "mUrl": "https://m.xdclass.net/#/member"
+            },
+            {
+                "type": 1,
+                "img": "\nhttps://file.xdclass.net/video/2022/banner/34.png",
+                "url": "\nhttps://detail.tmall.com/item.htm?id=659917587313&skuId=4753069368291",
+                "mUrl": "\nhttps://detail.tmall.com/item.htm?id=659917587313&skuId=4753069368291"
+            },
+            {
+                "type": 1,
+                "img": "\nhttps://file.xdclass.net/video/2022/banner/3.jpeg",
+                "url": "\nhttps://detail.tmall.com/item.htm?id=671977607036",
+                "mUrl": "\nhttps://detail.tmall.com/item.htm?id=671977607036"
+            },
+            {
+                "type": 1,
+                "img": "\nhttps://file.xdclass.net/video/2022/77-QD/banner.jpeg",
+                "url": "\nhttps://xdclass.net/#/coursedetail?video_id=77",
+                "mUrl": "\nhttps://m.xdclass.net/#/coursedetail?video_id=77"
+            },
+            {
+                "type": 1,
+                "img": "\nhttps://file.xdclass.net/video/2022/22-aliyun/03.png",
+                "url": "\nhttps://www.aliyun.com/minisite/goods?taskPkg=2022cgj&pkgSid=279342&userCode=r5saexap",
+                "mUrl": "\nhttps://www.aliyun.com/minisite/goods?taskPkg=2022cgj&pkgSid=279342&userCode=r5saexap"
+            },
+            {
+                "type": 1,
+                "img": "\nhttps://file.xdclass.net/video/2022/75-Vue3/banner.jpeg",
+                "url": "\nhttps://xdclass.net/#/coursedetail?video_id=75",
+                "mUrl": "\nhttps://m.xdclass.net/#/coursedetail?video_id=75"
+            },
+            {
+                "type": 1,
+                "img": "\nhttps://file.xdclass.net/video/2022/72-ShardingJDBC/banner.jpeg",
+                "url": "\nhttps://xdclass.net/#/coursedetail?video_id=72",
+                "mUrl": "\nhttps://m.xdclass.net/#/coursedetail?video_id=72"
+            },
+            {
+                "type": 1,
+                "img": "\nhttps://file.xdclass.net/video/2021/68-MySQL/banner.jpeg",
+                "url": "\nhttps://xdclass.net/#/coursedetail?video_id=68",
+                "mUrl": "\nhttps://m.xdclass.net/#/coursedetail?video_id=68"
+            },
+            {
+                "type": 1,
+                "img": "\nhttps://file.xdclass.net/video/2021/67-Flink/lbt.jpeg",
+                "url": "\nhttps://xdclass.net/#/coursedetail?video_id=67",
+                "mUrl": "\nhttps://m.xdclass.net/#/coursedetail?video_id=67"
+            },
+            {
+                "type": 1,
+                "img": "\nhttps://file.xdclass.net/video/2020-12%20%E5%AE%98%E7%BD%91%E8%B6%85100k%E4%B8%BB%E5%9B%BE%E6%9B%B4%E6%96%B0/lbt/alibabacloud.jpg",
+                "url": "\nhttps://detail.tmall.com/item.htm?id=627037900474",
+                "mUrl": "\nhttps://detail.tmall.com/item.htm?id=627037900474"
+            },
+            {
+                "type": 1,
+                "img": "\nhttps://file.xdclass.net/video/2020-12%20%E5%AE%98%E7%BD%91%E8%B6%85100k%E4%B8%BB%E5%9B%BE%E6%9B%B4%E6%96%B0/lbt/ssm.jpg",
+                "url": "\nhttps://detail.tmall.com/item.htm?spm=a230r.1.14.66.2c8e18e2nqtAgR&id=627337634174&ns=1&abbucket=9",
+                "mUrl": "\nhttps://m.xdclass.net/#/coursedetail?video_id=52"
+            }
+        ]
+    }],
+    "msg": null
+}

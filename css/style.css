@@ -98,10 +98,11 @@
 
 .xiangyou {
     width: 20px;
-    height: 20px
+    height: 20px;
 }
 
 .banner {
+    position: relative;
     width: 1000px;
     height: 450px;
     margin: 40px auto 0;
@@ -116,10 +117,62 @@
     display: flex;
     flex-flow: column;
     justify-content: space-between;
+    color: #fff;
+    background-color: black;
+}
+
+.banner_left .active {
+    color: #000;
+    background-color: #fff;
+}
+
+.xiangzuo_pre {
+    position: absolute;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    background-color: #00000052;
+    left: 210px;
+    top: 190px;
+    transform: rotate(0deg) translateY(50%);
+    z-index: 2
 }
 
 .banner_right {
     flex: 8;
+}
+
+.xiangyou_next {
+    position: absolute;
+    color: #fff;
+    background-color: #00000052;
+    width: 40px;
+    height: 40px;
+    right: 20px;
+    top: 190px;
+    transform: rotate(0deg) translateY(50%);
+    z-index: 2
+}
+
+.banner_dot {
+    width: 10px;
+    height: 10px;
+    background-color: rgba(00, 00, 00, 0.2);
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.dot_list {
+    width: 100%;
+    height: 20px;
+    position: absolute;
+    display: flex;
+    left: 524px;
+    bottom: 13px;
+}
+
+.dot_list .active {
+    background-color: #007aff;
 }
 
 .banner_left div {
@@ -133,6 +186,7 @@
 .banner_right img {
     width: 800px;
     height: 450px;
+    position: absolute;
 }
 
 .hot_list {

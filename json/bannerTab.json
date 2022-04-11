@@ -1,0 +1,61 @@
+{
+    "code": 0,
+    "data": [{
+            "id": 1,
+            "name": "后端&架构",
+            "createTime": "2017-11-12T01:11:11.000+0000",
+            "pid": null,
+            "del": null,
+            "level": null
+        },
+        {
+            "id": 2,
+            "name": "前端&全栈",
+            "createTime": "2016-09-18T01:24:11.000+0000",
+            "pid": null,
+            "del": null,
+            "level": null
+        },
+        {
+            "id": 3,
+            "name": "测试&测开",
+            "createTime": "2017-01-02T10:22:09.000+0000",
+            "pid": null,
+            "del": null,
+            "level": null
+        },
+        {
+            "id": 5,
+            "name": "运维&容器",
+            "createTime": "2017-09-12T11:24:11.000+0000",
+            "pid": null,
+            "del": null,
+            "level": null
+        },
+        {
+            "id": 7,
+            "name": "架构&管理",
+            "createTime": "2018-08-28T05:11:12.000+0000",
+            "pid": null,
+            "del": null,
+            "level": null
+        },
+        {
+            "id": 8,
+            "name": "算法|人工智能",
+            "createTime": "2020-06-11T10:34:19.000+0000",
+            "pid": null,
+            "del": null,
+            "level": null
+        },
+        {
+            "id": 9,
+            "name": "大数据",
+            "createTime": "2020-06-11T10:35:24.000+0000",
+            "pid": null,
+            "del": null,
+            "level": null
+        }
+    ],
+    "msg": null
+}
